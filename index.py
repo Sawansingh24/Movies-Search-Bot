@@ -11,7 +11,7 @@ from movies_scraper import search_movies, get_movie
 
 TOKEN = os.getenv("TOKEN")
 URL = "https://movies-search-bot-five.vercel.app"
-bot = Bot(TOKEN)
+bot = Bot(5812419965:AAHuyQGS9fyGEmhN7j-CAw8fjyUfMafS4_I)
 
 
 def welcome(update, context) -> None:
